@@ -1,6 +1,6 @@
 ### Tomar de decisiones de inversión con la información disponible
 
-La toma de decisiones en términos simples para Polimeni etal. (1997) es “el proceso de
+La toma de decisiones en términos simples para [Polimeni etal. (1997)](../referencias#polimeni1997) es “el proceso de
 selección entre uno o más cursos alternativos de acción”, también plantea seis etapas, que
 en resumen son:
 
@@ -13,7 +13,7 @@ en resumen son:
 escogido en la solución del problema.
 
 Con relación a las finanzas del comportamiento que intenta explicar los patrones de
-razonamiento de los inversionistas tenemos que para Cano & Cardoso (2015) las decisiones
+razonamiento de los inversionistas tenemos que para [Cano & Cardoso (2015)](../referencias#cano2015) las decisiones
 de inversión obedecen a varios factores creando sesgos conductuales y mencionan como
 puntos relevantes la Racionalidad del inversor, la Eficiencia informativa y el Rol de la
 información en la toma de decisiones. Teniendo el concepto de las Finanzas Conductuales
@@ -57,7 +57,7 @@ que alteran la toma de decisiones.
 Para procesar la información obtenida después de aplicar el modelo DuPont se hace
 uso de la Correlación de Pearson y la Regresión lineal múltiple. Donde la correlación de
 Pearson es usada para establecer el grado en que las variables se relacionan dentro de
-la distribución de datos. Para la correlación de Pearson Anderson etal. (2008) definen
+la distribución de datos. Para la correlación de Pearson [Anderson etal. (2008)](../referencias#anderson2008) definen
 rangos, donde: El rango [-1,1], donde -1 es una asociación negativa (inversa), 0 carece de
 una relación y 1 tiene una relación positiva (directa). Una medida más específica para la
 relación directa es entre los rangos: [0, 0.2] es correlación muy débil, [0.2, 0.4] es correlación
@@ -67,14 +67,15 @@ correlación muy alta.
 Respecto a la Regresión lineal múltiple permite a partir de datos, observar la tendencia
 y realizar estimaciones, también se le denomina Modelo de regresión múltiple, en su 
 fundamento se tiene al método de mínimos cuadrados que se le atribuye al matemático alemán
-Carl Friedrich Gauss (Gujarati & Porter, 2010). Anderson etal. (2008) mencionan que la
+Carl Friedrich Gauss ([Gujarati & Porter, 2010](../referencias#gujarati2010)). 
+[Anderson etal. (2008)](../referencias#anderson2008) mencionan que la
 ecuación describe la relación entre la variable dependiente y las variables independientes.
 Aplicar la Regresión lineal múltiple permite tener una Ecuación de regresión estimada con
 sus coeficientes y un indicador para medir la bondad de ajuste denominado Coeficiente
 de determinación múltiple (R2 ajustado), se puede interpretar como la proporción de la
 variabilidad en la variable dependiente.
 
-Aplicando la Fórmula de correlación de Pearson (Figura 2) tenemos que dentro de los
+Aplicando la Fórmula de correlación de Pearson ([Figura 2](../anexos#figura-2)) tenemos que dentro de los
 datos la correlación entre el ROE y el Margen de beneficio neto es negativa al igual que
 con el Multiplicador patrimonial. Con respecto a la correlación del ROE con la Rotación
 de activos es muy débil. En el ROA con el Multiplicador patrimonial se ve una correlación
@@ -112,7 +113,7 @@ original, Miscelánea, Servicios de tecnología de la información, Producción 
 gas, Productos forestales y Petrolera integrada.
 
 Siguiendo el modelo de Regresión lineal múltiple aplicado en los datos del MILA se
-obtiene una ecuación de regresión múltiple estimada (Figura 3) y una bondad de ajuste
+obtiene una ecuación de regresión múltiple estimada ([Figura 3](../anexos#figura-3)) y una bondad de ajuste
 (R2 aj.) de 0.1494466.
 
 Se tiene que la bondad de ajuste para Chile es de 0.5393076, es la más elevada en la
