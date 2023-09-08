@@ -6,8 +6,9 @@ negocios se acumulan a tal punto que se vuelven complejos de analizar para tomar
 decisiones. Modelos simples como el DuPont que utiliza información de estados financieros
 es donde muestran mejor su valor para los gerentes, inversores y usuarios interesados.
 
-El Modelo Dupont desde su invención en 1920 ha servido para descomponer el Rendimiento financiero (ROE) en: Margen de beneficio neto, Rotación de activos y Multiplicador
-patrimonial. En los últimos años investigadores como: Bunea etal. (2019) utilizan el Modelo
+El Modelo Dupont desde su invención en 1920 ha servido para descomponer el Rendimiento financiero (ROE) 
+en: Margen de beneficio neto, Rotación de activos y Multiplicador
+patrimonial. En los últimos años investigadores como: [Bunea etal. (2019)](referencias#bunea2019) utilizan el Modelo
 DuPont para analizar todo el sector energético de Rumania; y por otro lado Burja &
 Mărginean (2014) analizan el sector de muebles encontrando datos relevantes.
 
