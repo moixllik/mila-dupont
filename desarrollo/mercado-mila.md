@@ -14,11 +14,11 @@ miembros y también información tributaria.
 Cuando se refiere a los emisores en el MILA existen más de 600, los cuales no solo
 pertenecen a los países miembros, sino que por diversos acuerdos otros países ofrecen sus
 productos financieros en las bolsas de valores del MILA. Para la investigación se tomó
-una muestra de 347 empresas (Tabla 1) las cuales cotizan en bolsa de valores, publicaron
+una muestra de 347 empresas ([Tabla 1](../anexos#tabla-1)) las cuales cotizan en bolsa de valores, publicaron
 sus estados financieros en los períodos de 2015 a 2019 y tienen su domicilio legal dentro
 de un país perteneciente al MILA.
 
-Los datos para el desarrollo de la investigación se obtienen de TradingView (2020).
+Los datos para el desarrollo de la investigación se obtienen de [TradingView (2020)](../referencias#tview2020).
 TradingView, ofrece información de mercados financieros y tiene una base de datos
 proporcionada por ICE Data Services con una lista de empresas de varios países y sigue
 un solo formato en su publicación. Intercontinental Exchange (ICE), es una empresa de
@@ -27,7 +27,7 @@ EE. UU. fundada en el año 2000 y pertenece al S&P 500 Component. Las considerac
 a todos los interesados que incluyen a entidades de supervisión, accionistas, empleados y
 otros.
 
-Con los resultados al ordenar la información, como se observa en la Tabla 1 el mayor
+Con los resultados al ordenar la información, como se observa en la [Tabla 1](../anexos#tabla-1) el mayor
 porcentaje de empresas del MILA se encuentra en México (40.63 %) seguido por Chile
 (30.84 %), Perú (14.99 %) y finalmente Colombia (13.54 %) el más bajo. De igual modo si
 las empresas las subdividimos por sus sectores de negocio, tenemos que en primer lugar se
