@@ -70,9 +70,9 @@ fundamento se tiene al método de mínimos cuadrados que se le atribuye al matem
 Carl Friedrich Gauss ([Gujarati & Porter, 2010](../referencias#gujarati2010)). 
 [Anderson etal. (2008)](../referencias#anderson2008) mencionan que la
 ecuación describe la relación entre la variable dependiente y las variables independientes.
-Aplicar la Regresión lineal múltiple permite tener una Ecuación de regresión estimada con
-sus coeficientes y un indicador para medir la bondad de ajuste denominado Coeficiente
-de determinación múltiple (R2 ajustado), se puede interpretar como la proporción de la
+Aplicar la Regresión lineal múltiple permite tener una *Ecuación de regresión estimada* con
+sus coeficientes y un indicador para medir la bondad de ajuste denominado 
+*Coeficiente de determinación múltiple ($R^2$ ajustado)*, se puede interpretar como la proporción de la
 variabilidad en la variable dependiente.
 
 Aplicando la Fórmula de correlación de Pearson ([Figura 2](../anexos#figura-2)) tenemos que dentro de los
