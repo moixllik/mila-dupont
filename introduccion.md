@@ -1,4 +1,4 @@
-### Introducción
+# Introducción
 
 Con los avances tecnológicos el factor humano en la toma de decisiones es muy
 importante cuando no existen patrones que sirvan de guía. Los datos que generan los

@@ -1,5 +1,5 @@
 
-### Modelo Dupont ante el desafío de la información contable
+# Modelo Dupont ante el desafío de la información contable
 
 El análisis por el modelo DuPont como indica [Palomares & Peset (2015)](../referencias#palomares2015) se basa
 en descomponer la Rentabilidad financiera (ROE) de acuerdo con otros indicadores de

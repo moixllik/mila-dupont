@@ -1,4 +1,4 @@
-### Tomar de decisiones de inversión con la información disponible
+# Tomar de decisiones de inversión con la información disponible
 
 La toma de decisiones en términos simples para [Polimeni etal. (1997)](../referencias#polimeni1997) es “el proceso de
 selección entre uno o más cursos alternativos de acción”, también plantea seis etapas, que
@@ -19,7 +19,7 @@ puntos relevantes la Racionalidad del inversor, la Eficiencia informativa y el R
 información en la toma de decisiones. Teniendo el concepto de las Finanzas Conductuales
 donde se engloba a la psicología, finanzas y sociología.
 
-#### Racionalidad del inversor
+## Racionalidad del inversor
 
 El inversor como agente económico racional del mercado basa su acción en maximizar
 su utilidad tomando decisiones analizando el costo-beneficio. También por la misma
@@ -42,13 +42,13 @@ información.
 * Contabilidad mental: Distribución de la riqueza en cuentas mentales ignorando la
 capacidad de intercambio entre ellos.
 
-#### Eficiencia informativa
+## Eficiencia informativa
 
 De forma conceptual en los mercados eficientes el inversionista tiene acceso a la
 información completa y los precios reflejan ese hecho, aunque en la práctica no se llega a
 dar.
 
-#### Rol de la información en la toma de decisiones
+## Rol de la información en la toma de decisiones
 
 Las finanzas conductuales no se basan solo en la información como único factor para
 tomar decisiones, también incorporan otros factores psicológicos, cognitivos y conductuales

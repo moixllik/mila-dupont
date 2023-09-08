@@ -1,4 +1,6 @@
-### Resumen
+[Índice](.)
+
+# Resumen
 
 Es muy importante para los inversores tener información de forma rápida y fiable para
 tomar decisiones respecto a sus inversiones sin caer en sesgos conductuales. Es así como se

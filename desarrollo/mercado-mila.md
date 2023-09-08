@@ -1,4 +1,4 @@
-### Mercado Integrado Latinoamericano
+# Mercado Integrado Latinoamericano
 
 El Mercado Integrado Latinoamericano (MILA) inició formalmente el 2009, buscando
 un mercado común para negociar los productos financieros de las bolsas de valores de los

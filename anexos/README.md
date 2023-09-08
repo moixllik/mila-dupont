@@ -1,6 +1,8 @@
-### Anexos
+# Anexos
 
-#### Tabla 1
+## Tablas
+
+### Tabla 1
 *Miembros del MILA y su total de empresas que cotizan*
 
 | País     |   Empresas |   Porcentaje |
@@ -13,7 +15,7 @@
 
 > Nota: Adaptado de los datos de [TradingView (2020)](../referencias#tview2020).
 
-#### Tabla 2
+### Tabla 2
 *Ratios porcentuales promedios del MILA por país*
 
 | País     |   Beneficio |   Rotación |   Multiplicador |   ROE |   ROA |
@@ -25,7 +27,10 @@
 
 > Nota: Adaptado de los datos de [TradingView (2020)](../referencias#tview2020).
 
-#### Figura 1
+
+## Figuras
+
+### Figura 1
 
 $$ROE = \frac{Ingresos\ netos} {Recursos\ de\ los\ accionistas} , ROA = \frac{Ingresos\ netos} {Activos\ totales}$$
 
@@ -36,16 +41,14 @@ $$ROE = \frac{Ingresos\ netos} {Ventas} \times \frac{Ventas} {Activos\ totales} 
 *Fórmula del modelo DuPont*
 > Nota: Adaptado de [Bunea etal. (2019)](../referencias#bunea2019).
 
-#### Figura 2
+### Figura 2
 
-| |
-| --
-| ![](images/a_corr_mila.png)
+![](images/a_corr_mila.png)
 
 *Correlación de Pearson del MILA*
 > Nota: Adaptado de los datos de [TradingView (2020)](../referencias#tview2020).
 
-#### Figura 3
+### Figura 3
 
 $$ROE = 0{.}1785039 -0{.}0000117(X_1) +0{.}0036649(X_2) -0{.}0293105(X_3)$$
 
