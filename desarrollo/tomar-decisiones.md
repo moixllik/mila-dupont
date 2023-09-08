@@ -1,3 +1,5 @@
+[Índice](../README.md)
+
 # Tomar de decisiones de inversión con la información disponible
 
 La toma de decisiones en términos simples para [Polimeni etal. (1997)](../referencias#polimeni1997) es “el proceso de

@@ -1,3 +1,5 @@
+[Índice](./README.md)
+
 # Introducción
 
 Con los avances tecnológicos el factor humano en la toma de decisiones es muy

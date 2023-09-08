@@ -1,3 +1,5 @@
+[Índice](./README.md)
+
 # Método
 
 En la investigación se realizó una revisión literaria de artículos científicos, libros,

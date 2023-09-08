@@ -1,4 +1,4 @@
-[Índice](.)
+[Índice](./README.md)
 
 # Resumen
 
