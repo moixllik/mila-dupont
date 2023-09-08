@@ -1,7 +1,7 @@
 ### Conclusiones
 
 Usando el modelo Dupont permite analizar las empresas que cotizan en el MILA y se
-observa que países como México y Chile tienen mayor cantidad de empresas (Tabla 1),
+observa que países como México y Chile tienen mayor cantidad de empresas ([Tabla 1](anexos#tabla-1)),
 esto permite un mercado variado y con mayores opciones para los inversores. También al
 subdividir las empresas se encontró que hay más empresas en los sectores de Finanzas
 (22.79 %), Minerales no energéticos (11.60 %) y Servicios públicos (9.47 %) y en las

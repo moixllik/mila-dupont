@@ -9,8 +9,8 @@ es donde muestran mejor su valor para los gerentes, inversores y usuarios intere
 El Modelo Dupont desde su invención en 1920 ha servido para descomponer el Rendimiento financiero (ROE) 
 en: Margen de beneficio neto, Rotación de activos y Multiplicador
 patrimonial. En los últimos años investigadores como: [Bunea etal. (2019)](referencias#bunea2019) utilizan el Modelo
-DuPont para analizar todo el sector energético de Rumania; y por otro lado Burja &
-Mărginean (2014) analizan el sector de muebles encontrando datos relevantes.
+DuPont para analizar todo el sector energético de Rumania; y por otro lado [Burja & Mărginean (2014)](referencias#burja2014) 
+analizan el sector de muebles encontrando datos relevantes.
 
 Teniendo en cuenta lo antes mencionado nace la pregunta ¿el Modelo DuPont permite
 analizar un mercado de valores como el Mercado Integrado Latinoamericano (MILA)?
