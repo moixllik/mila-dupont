@@ -1,4 +1,4 @@
-[Índice](../README.md)
+[Índice](../README.md#índice)
 
 # Tomar de decisiones de inversión con la información disponible
 

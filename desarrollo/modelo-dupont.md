@@ -1,4 +1,4 @@
-[Índice](../README.md)
+[Índice](../README.md#índice)
 
 # Modelo Dupont ante el desafío de la información contable
 
