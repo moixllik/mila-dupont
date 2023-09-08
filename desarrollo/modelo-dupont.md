@@ -1,21 +1,21 @@
 
 ### Modelo Dupont ante el desafío de la información contable
 
-El análisis por el modelo DuPont como indica Palomares & Peset (2015) se basa
+El análisis por el modelo DuPont como indica [Palomares & Peset (2015)](../referencias#palomares2015) se basa
 en descomponer la Rentabilidad financiera (ROE) de acuerdo con otros indicadores de
 rendimiento, como Margen de beneficio neto, Rotación de activos y Multiplicador financiero
-(Figura 1), fórmula que también incluye a la descomposición de la Rentabilidad económica
+([Figura 1](../anexos#figura-1)), fórmula que también incluye a la descomposición de la Rentabilidad económica
 (ROA): Margen de beneficio neto y Rotación de activos.
 
 El modelo de análisis DuPont comenzó a usarse en 1920, funciona tanto como para
 grandes empresas y pequeñas, donde se estudia un fenómeno descompuesto en varios
 factores para poder obtener información mucho más detallada. A su vez la información para
-aplicar la fórmula del modelo DuPont (Figura 1) es obtenida de los Estados financieros.
+aplicar la fórmula del modelo DuPont ([Figura 1](../anexos#figura-1)) es obtenida de los Estados financieros.
 Del modelo DuPont se destaca su simplicidad de aplicación y que, al analizar mercados
 como el MILA con gran cantidad de datos contables publicados de forma trimestral y
 anual, permite extraer información que sirve para tomar decisiones.
 
-Para Amat Salas (2008) menciona que para utilizar la fórmula descompuesta del ROE
+Para [Amat Salas (2008)](../referencias#amat2008) menciona que para utilizar la fórmula descompuesta del ROE
 se debe:
 
 * Aumentar el Beneficio: se debe elevar precios, potenciar la venta de productos con
@@ -23,7 +23,7 @@ más margen, reducir los gastos o una combinación de las medidas anteriores.
 * Aumentar la Rotación: se debe vender más, reducir el activo o ambos.
 * Aumentar el Multiplicador: se debe aumentar la deuda en proporción a la rentabilidad
 
-Al analizar usando el modelo DuPont en las 347 empresas (Tabla 1), se obtiene como
+Al analizar usando el modelo DuPont en las 347 empresas ([Tabla 1](../anexos#tabla-1)), se obtiene como
 promedios globales: un Margen de beneficio neto de 710.98 %, Rotación de activos de
 50.02 %, Multiplicador patrimonial de 367.77 %, Retorno a los accionistas (ROE) de 7.25 %
 y Retorno sobre los activos (ROA) de 3.71 %. Información que permite entender en base a
@@ -31,7 +31,7 @@ promedios que las empresas en el MILA ofrecen sus productos con altos márgenes,
 rotación y se encuentran muy endeudadas.
 
 Para un análisis más detallado las 347 empresas se subdividen bajo las categorías: por
-país, sector e industria. Por país (Tabla 2), Perú y Chile tienen un ROE promedio por
+país, sector e industria. Por país ([Tabla 2](../anexos#tabla-2)), Perú y Chile tienen un ROE promedio por
 encima del 9 % y superior al 7.25 % del MILA. Chile por su parte tiene un Margen de
 beneficio neto muy alto, es diferente a Perú y Colombia que lo tienen en negativo.
 
