@@ -9,11 +9,11 @@
 
 | País     |   Empresas |   Porcentaje |
 |:---------|-----------:|-------------:|
-| México   |        141 |        40.63 |
+| Mexico   |        141 |        40.63 |
 | Chile    |        107 |        30.84 |
-| Perú     |         52 |        14.99 |
+| Peru     |         52 |        14.99 |
 | Colombia |         47 |        13.54 |
-| Total    |        347 |       100.00 |
+|          |        347 |       100    |
 
 > Nota: Adaptado de los datos de [TradingView (2020)](../referencias#tview2020).
 
@@ -22,10 +22,10 @@
 
 | País     |   Beneficio |   Rotación |   Multiplicador |   ROE |   ROA |
 |:---------|------------:|-----------:|----------------:|------:|------:|
-| Perú     |     -136.02 |      49.54 |          316.53 | 10.00 |  4.40 |
+| Peru     |     -136.02 |      49.54 |          316.53 | 10.00 |  4.40 |
 | Chile    |     3084.90 |      48.25 |          301.24 |  9.69 |  3.72 |
 | Colombia |       28.62 |      43.94 |          401.34 |  7.94 |  2.77 |
-| México   |     -540.75 |      53.54 |          425.89 |  4.15 |  3.77 |
+| Mexico   |     -540.75 |      53.54 |          425.89 |  4.15 |  3.77 |
 
 > Nota: Adaptado de los datos de [TradingView (2020)](../referencias#tview2020).
 
